@@ -1,0 +1,28 @@
+{
+    "Login":{
+        "usuario": "GOF",
+        "cuenta": "datosbe38@gmail.com",
+        "pass": "gnmahc2015"
+    },
+    "Sistema":{
+        "so": "<__main__.SO instance at 0xb6db87ec>",
+        "directorio": "/home/eoc/SBE38Terminal/Datos"
+    },
+    "Conf_Sensor":{
+        "modelo": "SBE38",
+        "s/n": 00025,
+        "puerto": "/dev/ttyUSB0",
+        "baudrate": 9600
+    },
+    "Estacion":{
+        "latitud": 35.26543
+        "longitud": 45.23654
+        "lugar": "LAB"
+        "muestreo": 300
+    }
+}
+
+
+
+
+
